@@ -1,0 +1,22 @@
+{
+  "name": "dcu-json",
+  "version": "0.0.1",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "google-spreadsheet-to-json": "^0.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "prettier": "^1.2.2"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "dcu-json"
+  },
+  "author": "Tyler Gaw",
+  "license": ""
+}
