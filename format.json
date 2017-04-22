@@ -1,0 +1,55 @@
+[
+  {
+    "name" : "Darkseid",
+    "subname" : "Uxas",
+    "level" : 25,
+    "affiliation": ["Justice League Villain", "Omega Villain"],
+    "attributes": [
+      { "power" :  12 },
+      { "speed" : [ 
+        { "1": 5 },
+        { "2": 8 },
+        { "3": 13 } ]},
+      { "strength": 6 },
+      { "attack": 6 },
+      { "size": 4 },
+      { "agility": 8 },
+      { "stamina": 12 },
+      { "willpower": 10 }
+    ],
+    "skills": [
+      "Energy",
+      "Fly",
+      "Mastermind",
+      "Power Master",
+      "Power Transference 4",
+      "Regeneration 5",
+      "Physical Resistance 2",
+      "Energy Resistance 2",
+      "Mental Resistance 2",
+      "Toughness 2"
+    ],
+    "defenses": [
+      { "physical": 15 },
+      { "energy" : 14 },
+      { "supernatural" : 14 },
+      { "mental": 18 }
+    ],
+    "endurance": [
+      { "grey": 8 },
+      { "blue": 4 },
+      { "darkblue": 3 }
+    ],
+    "attacks": [
+      "Godstrike",
+      "Energy Blast",
+      "Fire of Apokolips"
+    ],
+    "powers": [
+      "Energy Shield",
+      "Teleportation",
+      "Soul Manipulation",
+      "Omega Beam"
+    ]
+  }
+]
