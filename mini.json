@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Superman",
+    "level": 18,
+    "affiliation": ["Justice League Hero"]
+  },
+  {
+    "name": "Darkseid",
+    "subname": "Uxas",
+    "level": 25,
+    "affiliation": ["Justice League Villain", "Omega Villain"]
+  },
+
+]
