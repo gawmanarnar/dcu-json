@@ -5,10 +5,198 @@
     "affiliation": ["Justice League Hero"]
   },
   {
+    "name": "Batman",
+    "level": 9,
+    "affiliation": ["Justice League Hero"]
+  },
+  {
+    "name": "Wonder Woman",
+    "level": 13,
+    "affiliation": ["Justice League Hero"]
+  },
+  {
+    "name": "Green Lantern",
+    "level": 12,
+    "affiliation": ["Justice League Hero", "Green Lantern Corps"]
+  },
+  {
+    "name": "Supergirl",
+    "level": 11,
+    "affiliation": ["Justice League Hero"]
+  },
+  {
+    "name": "Aquaman",
+    "level": 12,
+    "affiliation": ["Justice League Hero"]
+  },
+  {
+    "name": "Flash",
+    "level": 10,
+    "affiliation": ["Justice League Hero"]
+  },
+  {
+    "name": "Green Arrow",
+    "level": 5,
+    "affiliation": ["Justice League Hero"]
+  },
+  {
+    "name": "Cyborg",
+    "level": 8,
+    "affiliation": ["Justice League Hero"]
+  },
+  {
+    "name": "Hawkman",
+    "level": 9,
+    "affiliation": ["Justice League Hero"]
+  },
+  {
+    "name": "Hawkgirl",
+    "level": 7,
+    "affiliation": ["Justice League Hero"]
+  },
+  {
+    "name": "Batgirl",
+    "level": 4,
+    "affiliation": ["Justice League Hero"]
+  },
+  {
+    "name": "Starfire",
+    "level": 10,
+    "affiliation": ["Justice League Hero"]
+  },
+  {
+    "name": "Black Canary",
+    "level": 5,
+    "affiliation": ["Justice League Hero"]
+  },
+  {
+    "name": "Kid Flash",
+    "level": 5,
+    "affiliation": ["Justice League Hero"]
+  },
+  {
+    "name": "Swamp Thing",
+    "level": 12,
+    "affiliation": ["Justice League Hero"]
+  },
+  {
+    "name": "Shazam",
+    "level": 15,
+    "affiliation": ["Justice League Hero"]
+  },
+  {
+    "name": "Ravager",
+    "level": 8,
+    "affiliation": ["Justice League Neutral"]
+  },
+  {
+    "name": "Catwoman",
+    "level": 6,
+    "affiliation": ["Justice League Neutral"]
+  },
+  {
+    "name": "Ravager",
+    "level": 8,
+    "affiliation": ["Justice League Neutral"]
+  },
+  {
+    "name": "Lex Luthor",
+    "level": 8,
+    "affiliation": ["Justice League Villian"]
+  },
+  {
+    "name": "Black Adam",
+    "level": 16,
+    "affiliation": ["Justice League Villian"]
+  },
+  {
+    "name": "Sinestro",
+    "level": 13,
+    "affiliation": ["Justice League Villian", "Yellow Lantern Corps"]
+  },
+  {
+    "name": "Poison Ivy",
+    "level": 8,
+    "affiliation": ["Justice League Villian"]
+  },
+  {
+    "name": "Black Manta",
+    "level": 9,
+    "affiliation": ["Justice League Villian"]
+  },
+  {
+    "name": "Professor Zoom",
+    "level": 8,
+    "affiliation": ["Justice League Villian"]
+  },
+  {
+    "name": "Ra's al Ghul",
+    "level": 10,
+    "affiliation": ["Justice League Villian"]
+  },
+  {
+    "name": "Clayface",
+    "level": 10,
+    "affiliation": ["Justice League Villian"]
+  },
+  {
+    "name": "Solomon Grundy",
+    "level": 8,
+    "affiliation": ["Justice League Villian"]
+  },
+  {
+    "name": "Deadshot",
+    "level": 6,
+    "affiliation": ["Justice League Villian"]
+  },
+  {
+    "name": "Harley Quinn",
+    "level": 4,
+    "affiliation": ["Justice League Villian"]
+  },
+  {
+    "name": "Bane",
+    "level": 10,
+    "affiliation": ["Justice League Villian"]
+  },
+  {
+    "name": "Deathstroke",
+    "level": 9,
+    "affiliation": ["Justice League Villian"]
+  },
+  {
+    "name": "Killer Frost",
+    "level": 6,
+    "affiliation": ["Justice League Villian"]
+  },
+  {
+    "name": "Lobo",
+    "level": 12,
+    "affiliation": ["Justice League Villian"]
+  },
+  {
+    "name": "Joker",
+    "level": 7,
+    "affiliation": ["Justice League Villian"]
+  },
+  {
     "name": "Darkseid",
-    "subname": "Uxas",
     "level": 25,
     "affiliation": ["Justice League Villain", "Omega Villain"]
   },
-
+  {
+    "name": "Parademon 1",
+    "level": 6,
+    "affiliation": ["Justice League Villain", "Omega Villain"]
+  },
+  {
+    "name": "Parademon 2",
+    "level": 6,
+    "affiliation": ["Justice League Villain", "Omega Villain"]
+  },
+  {
+    "name": "Parademon 2",
+    "level": 25,
+    "affiliation": ["Justice League Villain", "Omega Villain"]
+  }
 ]
